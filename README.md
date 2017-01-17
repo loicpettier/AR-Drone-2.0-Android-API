@@ -42,9 +42,9 @@ We are [Electrical Engineering and Industrial Programming Students] (https://www
 * Loïc Pettier
 * Maxime Marmont
 * Timothée Capaldi
-* Blanc Sofiane
-* Masson Thomas
-* Parriot Valentin
+* Sofian Blanc 
+* Thomas Masson
+* Valentin Parriot 
 
 ## Mentor
 

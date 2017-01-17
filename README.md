@@ -1,4 +1,4 @@
-# AR-Drone-2.0-Android-API
+# Starstream-Android-API
 
 ## Abstract
 We are Industrial Programming students and this is the result of our project.
@@ -13,12 +13,12 @@ The API will provide five main services:
 *	Setting up the drone before take-off (such as setting the maximum altitude, video frame rate…).
 *	Receiving and interpreting the navigation data coming from the drone in order to display useful information such as altitude and speed of the aircraft.
 *	Receiving the video streamed by the drone in order to display it in real time. It will also be possible to record the video stream.
-
+* Use a mobile gamepad connected (with bluetooth) at your smartphone to control the drone.
 Thus this interface will allow the user to set up and pilot the drone. It will also allow him to display and record the camera stream, which can be used for further processing.
 
 ## How to install
 
-1. Download and unzip "AR-Drone-2.0.zip"
+1. Download and unzip "Starstream.zip"
 2. Open the project in Android Studio
 3. Compile the project into your smartphone
 4. Power up the drone and connect your smartphone to its WiFi hotspot
@@ -31,13 +31,20 @@ Thus this interface will allow the user to set up and pilot the drone. It will a
 ## What's included
 You will find in this repository all the Java classes, as well as an Android project that can be used as an example.
 
+## What's news
+We upgraded the original project with a prettier user interface.
+We also fixed some bugs and implement a bluetooth control.
+And finally, we changed some waiting time usefull, like at the setup, or in thread.
+
 ## Authors
-We are [Electrical Engineering and Industrial Programming Students] (https://www.iut-acy.univ-smb.fr/) at the [University of Savoie Mont-Blanc] (https://www.univ-smb.fr/).
-* [Jules Simon] (https://github.com/JulesSimonGEII)
-* Alexis Artigues
-* Mathieu Collomb
-* Antoine Crosetti
-* Jean-Christophe Chudziak
+We are [Electrical Engineering and Industrial Programming Students] (https://www.iut-acy.univ-smb.fr/) at the [University of Savoie Mont-Blanc] (https://www.univ-smb.fr/) from 2015/2017 year.
+
+* Loïc Pettier
+* Maxime Marmont
+* Timothée Capaldi
+* Blanc Sofiane
+* Masson Thomas
+* Parriot Valentin
 
 ## Mentor
 
